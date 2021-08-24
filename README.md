@@ -1,9 +1,10 @@
 # UnityVR_MusicEDU
 
 <img width="100" height="100" src="https://user-images.githubusercontent.com/59333136/124528386-0734ad80-de43-11eb-9845-691578eaeb70.png">
+
 ## EMOTIONWAVE Intern 2021.06.30 ~ 2021.08.25
 
-### 실감형 VR 음악교육 컨텐츠 프로젝트
+## 실감형 VR 음악교육 컨텐츠 프로젝트
 
 ## 01 #3 연주자 체험하기 : 클래식 (바이올린)
 ![최종보고서_아주대학교_김기윤_페이지_03](https://user-images.githubusercontent.com/59333136/130571335-9e87cf4a-500c-45db-b641-24bb82c21b6b.png)
